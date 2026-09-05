@@ -33,20 +33,20 @@ Do NOT bid on these. Nominate them early to eat into Hickstown ($192), Easy Bree
 
 | Priority | Player | Pos | Rank | True value | Max bid | Notes |
 |---|---|---|---|---|---|---|
-| 1 | **De'Von Achane** | RB | RB5 | ~$50 | **$42** | Explosive, big-play = +3 bonus fits. Best value vs. rank in pool. |
-| 2 | **Puka Nacua** | WR | WR2 | ~$52 | **$44** | 107 yd/game in 2025, led NFL. Volume receiver — note: non-PPR scoring reduces ceiling slightly vs. rankings. |
-| 3 | **Saquon Barkley** | RB | RB11 | ~$36 | **$32** | Already own Bigsby (handcuff) — adds $5-8 to effective value. |
-| 4 | **Jeremiyah Love** | RB | ~RB8 | ~$40 | **$28** | Ankle discount + own Allgeier (handcuff). If already have Achane+Barkley, skip. |
+| 1 | **De'Von Achane** | RB | RB5 | ~$50 | **$42** | Clear for W1, "feels 100%". Dolphins/McDaniel confirmed. Explosive, big-play = +3 bonus fits. Top priority. |
+| 2 | **Saquon Barkley** | RB | RB11 | ~$36 | **$32** | Already own Bigsby (handcuff) — adds $5-8 to effective value. |
+| 3 | **Puka Nacua** | WR | WR2 | ~$52 | **$32** | ⚠️ Legal cloud: ongoing lawsuit, Schefter flagged potential mid-season suspension. Also psoas soreness in camp. Clear for W1 but risk across full season. Also volume receiver (non-PPR discount). Moved down. |
+| 4 | **Jeremiyah Love** | RB | ~RB8 | ~$40 | **$18** | ⚠️ High ankle sprain, missed all preseason, HC noncommittal on W1. Own Allgeier (handcuff) so Love absence is covered — bid less, not more. |
 
 ### Tier 2: Value plays
 
 | Player | Pos | Max bid | Notes |
 |---|---|---|---|
-| **George Pickens** | WR | **$20** | WR12, downfield threat = +3 bonus upside. Rodgers/Steelers. |
+| **George Pickens** | WR | **$22** | WR12, Cowboys (NOT Steelers — correction). Dak Prescott + CeeDee Lamb tandem = WR2 role with volume. +3 bonus fits his downfield profile. Healthy. |
 | **Justin Jefferson** | WR | **$38** | If somehow falls cheap after budget drain |
 | **CeeDee Lamb** | WR | **$36** | Same — let others overbid, swoop if it drops |
 | **Davante Adams** | WR | **$14** | 14 TDs last year. TD machine in this format. Age risk. |
-| **DK Metcalf** | WR | **$14** | Big-play WR, +3 bonus fits. Steelers. |
+| **DK Metcalf** | WR | **$14** | Big-play WR, +3 bonus fits. |
 
 ### Tier 3: Fill spots (spend as little as possible)
 
@@ -96,7 +96,7 @@ When the room is on fumes (10+ teams at $1 left), you should have $15-20 in rese
 |---|---|---|---|---|
 | **Omarion Hampton** | RB | $15 | RB12 pts/game as a rookie *while injured*. McDaniel offense (top-5 fantasy RB in 3 straight seasons). Upgraded OL. | Buy $12 → keep $18 |
 | **Ashton Jeanty** | RB | $18 | RB11 rookie year, boom/bust. Kubiak as HC = run-first. Top-24 projection 2026. | Buy $15 → keep $23 |
-| **Bhayshul Tuten** | RB | $10 | Etienne gone. 7 TDs from 93 touches, 31% missed tackle rate. Clear starter path. | Buy $8 → keep $12 |
+| **Bhayshul Tuten** | RB | $6 | ⚠️ Competing with Chris Rodriguez for early-down work (~60-65% of snaps, not a lock). Still good upside but reduced ceiling. | Buy $5 → keep $8 |
 
 ### Tier B — $1-5 (endgame sweep when room is broke)
 

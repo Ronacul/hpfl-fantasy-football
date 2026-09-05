@@ -1,6 +1,6 @@
 # Xavier's Force — 2026 Draft Night Priorities
 
-**Last updated:** 2026-09-05 | **Cap:** $165 for 12 spots | **Draft:** Sep 6, 2026
+**Last updated:** 2026-09-05 (post-trade talks) | **Cap:** $165 for 12 spots | **Draft:** Sep 6, 2026
 
 ---
 
@@ -10,6 +10,42 @@
 - Handcuff pairs already owned: Bigsby → Barkley, Allgeier → Love
 - Scoring edge: +3 bonus for TDs 40+ yards → favour explosive/big-play profiles
 - Room tendency: frugal. Owners learned from unkeepable escalator contracts. Bids run $10-18 below true value.
+
+---
+
+## Pre-Draft Trade Analysis (Sep 5, 2026)
+
+Two trade offers came in before draft day. Both passed. Go to auction with full $130 budget.
+
+### Trade cost formula (verified)
+
+- **Cut cost** = 50% of contracted salary, rounded up
+- **Trade cost (cap hit)** = contracted salary − trade price
+- A trade beats cutting only when trade price > contracted salary ÷ 2
+- Example: $30 contract, trade at $20 → $10 cap hit vs $15 cut cost → trade saves $5
+
+### Brian Thomas Jr. — WR, Jacksonville Jaguars ($23 contract, 1-yr rental)
+
+**Offer received:** $12 (final counter). **Decision: PASS — even at $12.**
+
+- Target share fell 25.5% → 19.3% in 2025. Sophomore regression. Crowded receiver room.
+- True auction value in frugal room: $8–12. No edge buying him at $12 vs just drafting a comparable WR.
+- Trevor Lawrence is healthy (29 TDs 2025, confirmed W1 starter — QB concern was unfounded, verified).
+- JAX bye: W7 — zero conflict with any keeper. Was not a bye-week headache.
+- At $12 trade price: cap hit = $23 − $12 = **$11**. Cuts $4 off cut cost ($12). Not enough for a player ranked WR32–40 in non-PPR.
+- **Rule confirmed:** Never buy a receiver at near-auction-value when you can just draft one.
+
+### Brock Bowers — TE, Las Vegas Raiders ($30 contract)
+
+**Offers exchanged:** Asked $27 → countered $20 → discussed $22–25. **Decision: PASS at any price above $20; ultimately passed entirely.**
+
+- Consensus TE1: ~180 targets projected, knee healed. True value $24–28.
+- Kirk Cousins confirmed W1 starter (not Fernando Mendoza). QB concern was unfounded, verified.
+- Frugal room expected auction price: $16–22. Best case, he goes for $18–20 at auction.
+- At $25 trade: cap hit = $30 − $25 = **$5**. Cheap. But — already own Kraft at $8 (TE1 keeper). A second $25 TE locks up $30+ in a position that starts one.
+- Would have forced cuts to WR budget, where the real need is.
+- **Bigsby rule:** Counter-offered Bigsby + cash. Hard no. Bigsby = Barkley handcuff. Never trade him regardless of return.
+- **Verdict:** Walk into auction with $130. If Bowers hits auction at ≤$20, bid. Otherwise let him go.
 
 ---
 

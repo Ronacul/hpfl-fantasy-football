@@ -86,6 +86,32 @@ Do NOT bid on these. Nominate them early to eat into Hickstown ($192), Easy Bree
 
 ---
 
+## Late-Auction Sweepers — Future Keepers
+
+When the room is on fumes (10+ teams at $1 left), you should have $15-20 in reserve. Bid $2-5 on these to steal them. A $2 buy kept at $3 next year is the foundation of a dynasty if they break out.
+
+### Tier A — $8-18 (steal if budget drains right)
+
+| Player | Pos | Max bid | Why | Keeper math |
+|---|---|---|---|---|
+| **Omarion Hampton** | RB | $15 | RB12 pts/game as a rookie *while injured*. McDaniel offense (top-5 fantasy RB in 3 straight seasons). Upgraded OL. | Buy $12 → keep $18 |
+| **Ashton Jeanty** | RB | $18 | RB11 rookie year, boom/bust. Kubiak as HC = run-first. Top-24 projection 2026. | Buy $15 → keep $23 |
+| **Bhayshul Tuten** | RB | $10 | Etienne gone. 7 TDs from 93 touches, 31% missed tackle rate. Clear starter path. | Buy $8 → keep $12 |
+
+### Tier B — $1-5 (endgame sweep when room is broke)
+
+| Player | Pos | Max bid | Why | Scoring fit | Keeper math |
+|---|---|---|---|---|---|
+| **Xavier Worthy** | WR | $5 | KC WR2, healthy shoulder, 4.21 speed. Not ranked top-45. | +3 bonus machine — best format fit of any sleeper | Buy $2 → keep $3 |
+| **Luther Burden III** | WR | $5 | Bears WR2 year 2. 150 vacated targets, Ben Johnson offense, Caleb Williams developing. | Volume + TD upside | Buy $3 → keep $5 |
+| **Jaylen Golden** | WR | $3 | Packers, 4.29 speed, 138 vacated targets from departed WRs. Year 2. | Speed = +3 bonus | Buy $1 → keep $2 |
+| **Rome Odunze** | WR | $4 | Bears, elite talent, year 2. Breakout upside, not certainty. | Big-play ability | Buy $3 → keep $5 |
+| **Jordan Mason** | RB | $3 | Vikings, top-20 by every efficiency metric behind Jones. Jones gone. | Workhorse upside | Buy $2 → keep $3 |
+
+**Rule:** Keep $15-20 in reserve specifically for this phase. A $2 bid beats every $1-only team in the room.
+
+---
+
 ## Sources / calibration
 
 - Field Yates (ESPN) Sep 2026 PPR rankings: Achane RB5, Nacua WR2, Pickens WR12, Barkley RB11

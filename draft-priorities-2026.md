@@ -118,3 +118,37 @@ When the room is on fumes (10+ teams at $1 left), you should have $15-20 in rese
 - RotoWire preseason auction values (standard $200 cap): Nacua ~$39-45, Barkley ~$34
 - **Key calibration:** HPFL owners are frugal — expect bids $10-18 below true market value. True value is the ceiling, not the expected price.
 - **Non-PPR adjustment:** Nacua's WR2 rank is partly PPR-driven (volume). In HPFL's non-PPR format, Achane's explosive profile fits scoring better.
+
+---
+
+## Position Budget Model
+
+**$165 total | 12 slots | $9 on fill spots | $156 for 6 real spots**
+
+| Position | Slots | Target spend | How |
+|---|---|---|---|
+| RB (auction) | 2 | **$45-55** | Achane $35-40 + Barkley if ≤$22 OR sleeper $8-12 |
+| WR | 4 | **$80-95** | WR1 $30-35 + WR2 $22-26 + WR3 $16-20 + WR4 $5-8 |
+| QB2 | 1 | $4 | Bye-week fill |
+| TE2 | 1 | $2 | Body |
+| K × 2 | 2 | $2 | $1 each |
+| DST × 2 | 2 | $2 | $1 each |
+| **Reserve** | — | **$15-20** | Endgame sweep |
+
+**RB decision rule:** Skip Love (ankle + own Allgeier). Take Barkley as RB2 only if ≤$22. Otherwise grab Hampton/Tuten $8-12 and redirect $15-20 to WR.
+
+## Player Value Table (true value vs. frugal room price)
+
+| Player | Pos | True value | Expected price | Edge | Call |
+|---|---|---|---|---|---|
+| De'Von Achane | RB | $45 | $32-38 | $7-13 | BUY |
+| Justin Jefferson | WR | $42 | $28-35 | $7-14 | BUY |
+| CeeDee Lamb | WR | $44 | $30-37 | $7-14 | BUY (if Jefferson gone) |
+| Saquon Barkley | RB | $32 | $20-26 | $6-12 | Buy only if ≤$22 |
+| Puka Nacua | WR | $34 (legal adj.) | $22-30 | $4-12 | Opportunistic |
+| Jeremiyah Love | RB | $22 (injury adj.) | $13-18 | $4-9 | Skip or low bid |
+| George Pickens | WR | $26 | $16-22 | $4-10 | WR3 |
+| Davante Adams | WR | $22 | $14-18 | $4-8 | Regression risk — WR3/4 |
+| Omarion Hampton | RB | $20 | $10-16 | $4-10 | Sleeper RB2 |
+| DK Metcalf | WR | $16 | $10-14 | $2-6 | WR4 sweep |
+| Stefon Diggs | WR | $12 | $8-12 | $0-4 | Cheap WR4 |
